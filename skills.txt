@@ -1,0 +1,53 @@
+Algorithms
+Amazon EMR
+Bayesian Inference
+C/C++
+Cassandra
+Clojure
+Clustering
+Collaborative Filtering
+Convolutional Neural Networks
+Data Mining
+Docker
+DynamoDB
+Gradient Boosting
+HBase
+Hive
+Julia
+Kubernetes
+Linear Algebra
+Linear Discriminant Analysis (LDA)
+Linear Regression
+Logistic Regression
+MCMC
+Matplotlib
+Matrix Factorization
+Mesos
+Microsoft Excel
+Microsoft Office
+Microsoft Powerpoint
+Microsoft Word
+NLP
+Neural Networks
+Numerical Methods
+Numpy
+Pandas
+PostgreSQL
+Presto
+Probabilistic Graphical Models
+R
+Random Forests
+Recurrent Neural Networks
+Relational Databases
+Scala
+Scikit-Learn
+Scipy
+Sequence Classification
+Spark
+Spark ML
+Spark Streaming
+Statistics
+Support Vector Machines
+TensorFlow
+Topic Modeling
+k-means
